@@ -1,0 +1,17 @@
+{
+  "name": "@arturdoruch/event-registry",
+  "version": "1.0.0",
+  "description": "DOM element events registry",
+  "keywords": ["event registry", "event listener", "event handler"],
+  "license": "MIT",
+  "type": "module",
+  "main": "lib/event-registry.js",
+  "repository": "https://github.com/arturdoruch/js-event-registry",
+  "author": {
+    "name": "Artur Doruch",
+    "email": "arturdoruch@interia.pl"
+  },
+  "dependencies": {
+    "jquery": ">=2.0"
+  }
+}
