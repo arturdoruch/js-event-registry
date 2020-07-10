@@ -1,8 +1,8 @@
 {
   "name": "@arturdoruch/event-registry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "DOM element events registry",
-  "keywords": ["event registry", "event listener", "event handler"],
+  "keywords": ["event registry", "html element event listener", "event handler"],
   "license": "MIT",
   "type": "module",
   "main": "lib/event-registry.js",
