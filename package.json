@@ -1,6 +1,6 @@
 {
   "name": "@arturdoruch/event-registry",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "DOM element events registry",
   "keywords": ["event registry", "html element event listener", "event handler"],
   "license": "MIT",
